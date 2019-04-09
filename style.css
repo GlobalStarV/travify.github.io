@@ -313,3 +313,10 @@ padding: 100px 0;
 .footer .copyright{
 	text-align: center;
 }
+
+gcse{
+border: 0!important;
+	border-radius: 30px !important;
+	margin:2px;
+	box-shadow: none!important;
+}
